@@ -1,0 +1,30 @@
+# ===== OS junk =====
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Linux
+*~
+
+# ===== Editor / IDE temp files =====
+*.swp
+*.swo
+
+# ===== Logs =====
+*.log
+
+# Note: language/framework-specific ignores live in the project folders:
+#   BackendCode/fitness_backend/.gitignore   (Laravel)
+#   FlutterCode/mightyfitness_flutter/.gitignore  (Flutter)
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
