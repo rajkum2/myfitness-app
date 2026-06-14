@@ -1,0 +1,12 @@
+# Large binary design sources.
+# These exceed GitHub's 100MB per-file push limit — keep them out of git.
+# (e.g. "Mighty Fitness App Figma.fig" is ~108MB)
+# Share via Figma/Drive, or use Git LFS if they must be versioned.
+*.fig
+*.sketch
+*.xd
+*.psd
+*.ai
+
+# OS junk
+.DS_Store
